@@ -1,4 +1,0 @@
-Generated project implementation based on the uploaded project report.
-The report describes the modules detect_people.py, track_people.py,
-intrusion_detection.py and dashboard/app.py; these files are reconstructed
-here as a runnable implementation matching that documented architecture.
